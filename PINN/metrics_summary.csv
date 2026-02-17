@@ -1,0 +1,4 @@
+model,train_mae,train_r2,cv_mae_mean,cv_mae_std,cv_r2_mean,cv_r2_std
+PhysicsInformed_Ridge,0.2709,0.9461,0.3003,0.0358,0.9283,0.0194
+PhysicsInformed_XGBoost,0.0611,0.9964,0.4251,0.0607,0.8526,0.0585
+PhysicsInformed_RandomForest,0.1464,0.9823,0.5035,0.1163,0.7938,0.117
